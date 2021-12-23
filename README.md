@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Seb
+- 👀 I’m interested in GitHub Actions
+- 🌱 I’m currently learning (more) GitHub Actions
+- 💞️ I’m looking to collaborate on GitHub Actions usage within NewDay
+- 📫 How to reach me ... Teams!
